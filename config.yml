@@ -15,6 +15,6 @@ params:
 
 params:
     homeInfoParams:
-        Title: Hello there 👋 👋 👋
+        Title: Hello there 👋 👋 
         Content: My name is Vladimir Jerotić. Scroll down and click on tabs if you want to know more.👇️👇️👇️
         defaultTheme: dark
