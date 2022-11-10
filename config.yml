@@ -1,0 +1,19 @@
+baseURL: 
+defaultTheme: dark
+languageCode: en-us
+title: Vladimir Jerotić 👻
+theme: PaperMod
+
+disableThemeToggle: true
+
+menu:
+  main: 
+    - identifier: Home
+      name: Home
+      url: /
+
+params:
+    homeInfoParams:
+        Title: Hello there 👋 👋 👋
+        Content: My name is Vladimir Jerotić. Scroll down and click on tabs if you want to know more.👇️👇️👇️
+        defaultTheme: dark
