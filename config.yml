@@ -4,13 +4,14 @@ languageCode: en-us
 title: Vladimir Jerotić 👻
 theme: PaperMod
 
-disableThemeToggle: true
-
 menu:
   main: 
     - identifier: Home
       name: Home
       url: /
+
+params:
+    defaultTheme: dark
 
 params:
     homeInfoParams:
