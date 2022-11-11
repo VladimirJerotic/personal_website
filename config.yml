@@ -16,5 +16,5 @@ params:
 params:
     homeInfoParams:
         Title: Hello there 👋 👋 
-        Content: My name is Vladimir Jerotić. Click on tabs if you want to know more.👇️👇️
+        Content: My name is Vladimir Jerotić. Click on tabs if you want to know more. You can also toggle between light and dark mode by clicking on the moon/sun icon besides the little ghost. 👇️👇️
         defaultTheme: dark
