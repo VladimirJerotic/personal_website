@@ -1,5 +1,5 @@
 ---
-title: "Links 🔗"
+title: "Useful links 🔗"
 draft: false
 weight: 3
 hideSummary: true
