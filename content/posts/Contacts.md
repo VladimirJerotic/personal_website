@@ -5,7 +5,7 @@ weight: 2
 hideSummary: true
 ShowPostNavLinks: true
 ---
-**Email:**  vj@airmail.cc
+**Email:**  vj@airmail.cc  /// vladimir.jerotic@outlook.com 
 
 **Matrix:**  [@vje:matrix.org](https://app.element.io)
 
