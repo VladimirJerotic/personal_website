@@ -23,6 +23,7 @@
 .first-entry .entry-content {
     margin: 14px 0;
     font-size: 22px;
+    align-items: center;
     -webkit-line-clamp: 3;
 }
 
