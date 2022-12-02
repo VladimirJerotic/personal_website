@@ -22,12 +22,8 @@
 
 .first-entry .entry-content {
     margin: 14px 0;
-    font-size: 16px;
+    font-size: 26px;
     -webkit-line-clamp: 3;
-}
-
-.first-entry .entry-footer {
-    font-size: 14px;
 }
 
 .home-info .entry-content {
